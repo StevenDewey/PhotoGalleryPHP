@@ -1,0 +1,193 @@
+/* latin-ext */
+@font-face {
+  font-family: 'Inconsolata';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Inconsolata'), url(http://fonts.gstatic.com/s/inconsolata/v10/BjAYBlHtW3CJxDcjzrnZCCYE0-AqJ3nfInTTiDXDjU4.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Inconsolata';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Inconsolata'), url(http://fonts.gstatic.com/s/inconsolata/v10/BjAYBlHtW3CJxDcjzrnZCI4P5ICox8Kq3LLUNMylGO4.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+body {
+	font-family: 'Inconsolata';
+}
+
+.inputBox{
+	height: 20px;
+	border: none;
+	font-size: 15px;
+	width: 180px;
+	border-radius: 3px;
+	padding-left: 5px;
+	opacity: .8;
+}
+
+.image {
+	display: inline-block;
+	/*border: 1px solid black;*/
+	border-radius: 5px;
+	margin: 10px;
+	position: relative;
+	max-height: 300px;
+	max-width: 300px;
+	opacity: .2;
+	-webkit-transition: opacity .9s; /* Safari */
+    transition: opacity .5s !important;
+}
+
+.image:hover{
+	opacity: 1;
+}
+
+img {
+	border-radius: 5px;
+}
+
+.centerIndex {
+	text-align: center;
+	margin-top: 17%;
+}
+
+#indexBody {
+	background-color: #d6ebf2;
+}
+
+.delete {
+	float:right;
+	margin-left: 63px;
+	opacity: .8;
+}
+
+.caption {
+	float: left;
+	margin-top: 25px;
+	margin-left: 2px;
+}
+.lowerContent {
+	margin-top: -35px;
+	z-index: 100;
+	position: absolute;
+	bottom: -1px;
+
+}
+.upperContent {
+	z-index: 10;
+}
+#logout {
+	float: right;
+}
+#gallery{
+	max-width: 1100px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+#upload{
+	margin-top: 90px;
+	margin-bottom: 50px;
+}
+#image {
+	border: 1px solid #f1f1f1;
+}
+.captionUpload{
+	height: 28px;
+  font-size: 15px;
+  border-radius: 3px;
+  padding-left: 5px;
+  margin-right: 25px;
+}
+.btn {
+  display: inline-block;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 14px;
+  /*font-weight: normal;*/
+  line-height: 1.42857143;
+  text-align: center;
+ /* white-space: nowrap;*/
+  vertical-align: middle;
+  -ms-touch-action: manipulation;
+      touch-action: manipulation;
+  cursor: pointer;
+ /* -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;*/
+ /* background-image: none;*/
+  /*border: 1px solid transparent;*/
+  border-radius: 4px;
+  background-color: #fafafa
+}
+.btn:hover {
+  background-color: #ffffff;
+}
+.hvr-grow {
+  /*display: inline-block;
+  vertical-align: middle;*/
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+}
+.hvr-grow:hover, .hvr-grow:focus, .hvr-grow:active {
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+/* Float Shadow */
+.hvr-float-shadow {
+  /*display: inline-block;
+  vertical-align: middle;*/
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  position: relative;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+}
+.hvr-float-shadow:before {
+  pointer-events: none;
+  position: absolute;
+  z-index: -1;
+  content: '';
+  top: 100%;
+  left: 5%;
+  height: 10px;
+  width: 90%;
+  opacity: 0;
+  background: -webkit-radial-gradient(center, ellipse, rgba(0, 0, 0, 0.35) 0%, rgba(0, 0, 0, 0) 80%);
+  background: radial-gradient(ellipse at center, rgba(0, 0, 0, 0.35) 0%, rgba(0, 0, 0, 0) 80%);
+  /* W3C */
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: transform, opacity;
+  transition-property: transform, opacity;
+}
+.hvr-float-shadow:hover, .hvr-float-shadow:focus, .hvr-float-shadow:active {
+  -webkit-transform: translateY(-5px);
+  transform: translateY(-5px);
+  /* move the element up by 5px */
+}
+.hvr-float-shadow:hover:before, .hvr-float-shadow:focus:before, .hvr-float-shadow:active:before {
+  opacity: 1;
+  -webkit-transform: translateY(5px);
+  transform: translateY(5px);
+  /* move the element down by 5px (it will stay in place because it's attached to the element that also moves up 5px) */
+}

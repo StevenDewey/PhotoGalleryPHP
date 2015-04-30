@@ -1,0 +1,716 @@
+[11-Apr-2015 20:10:57 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/index.php on line 3
+[11-Apr-2015 20:10:57 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/ImageGallery/index.php on line 5
+[11-Apr-2015 20:11:02 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/index.php on line 3
+[11-Apr-2015 20:11:02 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/ImageGallery/index.php on line 5
+[11-Apr-2015 20:13:17 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/index.php on line 3
+[11-Apr-2015 20:13:17 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/ImageGallery/index.php on line 5
+[11-Apr-2015 20:13:17 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 7
+[11-Apr-2015 20:14:12 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 7
+[11-Apr-2015 20:14:14 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/index.php on line 3
+[11-Apr-2015 20:17:20 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/index.php on line 3
+[11-Apr-2015 20:24:20 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/index.php on line 3
+[11-Apr-2015 20:24:28 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/index.php on line 3
+[11-Apr-2015 20:24:28 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 7
+[11-Apr-2015 20:24:28 America/Denver] PHP Fatal error:  Class 'Gallery' not found in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 31
+[11-Apr-2015 20:24:35 America/Denver] PHP Fatal error:  Class 'Gallery' not found in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 31
+[11-Apr-2015 20:24:35 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/index.php on line 3
+[11-Apr-2015 20:25:47 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 3
+[11-Apr-2015 20:25:47 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 8
+[11-Apr-2015 20:26:04 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 3
+[11-Apr-2015 20:26:04 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 8
+[11-Apr-2015 20:26:09 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 3
+[11-Apr-2015 20:26:09 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 8
+[11-Apr-2015 20:26:18 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 3
+[11-Apr-2015 20:26:18 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 8
+[11-Apr-2015 20:26:20 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 3
+[11-Apr-2015 20:26:25 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 3
+[11-Apr-2015 20:26:25 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 8
+[11-Apr-2015 21:24:25 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 3
+[11-Apr-2015 21:24:25 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 8
+[11-Apr-2015 21:32:00 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 3
+[11-Apr-2015 21:32:00 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 8
+[11-Apr-2015 21:32:20 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 3
+[11-Apr-2015 21:32:20 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 8
+[11-Apr-2015 21:32:55 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 3
+[11-Apr-2015 21:32:55 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 8
+[11-Apr-2015 21:56:08 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 20
+[11-Apr-2015 21:56:11 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 20
+[11-Apr-2015 21:56:54 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[11-Apr-2015 21:56:54 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 9
+[11-Apr-2015 21:57:06 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[11-Apr-2015 21:57:06 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 9
+[11-Apr-2015 21:59:48 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[11-Apr-2015 21:59:48 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 9
+[11-Apr-2015 22:00:39 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[11-Apr-2015 22:01:07 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[11-Apr-2015 22:02:17 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[11-Apr-2015 22:02:57 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[11-Apr-2015 22:03:10 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[11-Apr-2015 22:05:11 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[11-Apr-2015 22:10:40 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[11-Apr-2015 22:31:47 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[11-Apr-2015 22:31:57 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[11-Apr-2015 22:32:16 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[11-Apr-2015 22:33:38 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[11-Apr-2015 22:34:07 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[11-Apr-2015 22:34:52 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[11-Apr-2015 22:37:31 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[11-Apr-2015 22:45:40 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[11-Apr-2015 22:46:39 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[11-Apr-2015 22:46:52 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[11-Apr-2015 22:48:07 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[11-Apr-2015 22:48:27 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[11-Apr-2015 23:28:31 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[11-Apr-2015 23:32:22 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[11-Apr-2015 23:32:51 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[11-Apr-2015 23:33:01 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[11-Apr-2015 23:33:08 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[11-Apr-2015 23:33:18 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[11-Apr-2015 23:34:02 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[11-Apr-2015 23:34:29 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[11-Apr-2015 23:34:36 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[11-Apr-2015 23:34:50 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[11-Apr-2015 23:36:09 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[11-Apr-2015 23:37:16 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[11-Apr-2015 23:38:37 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[11-Apr-2015 23:39:29 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[11-Apr-2015 23:39:46 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[12-Apr-2015 00:09:40 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 30
+[12-Apr-2015 00:10:18 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[12-Apr-2015 00:10:18 America/Denver] PHP Warning:  mysql_insert_id(): Access denied for user 'rchaudhry'@'localhost' (using password: NO) in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 109
+[12-Apr-2015 00:10:18 America/Denver] PHP Warning:  mysql_insert_id(): A link to the server could not be established in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 109
+[12-Apr-2015 00:17:13 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[12-Apr-2015 00:17:13 America/Denver] PHP Warning:  mysql_insert_id(): Access denied for user 'rchaudhry'@'localhost' (using password: NO) in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 109
+[12-Apr-2015 00:17:13 America/Denver] PHP Warning:  mysql_insert_id(): A link to the server could not be established in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 109
+[12-Apr-2015 00:35:13 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[12-Apr-2015 00:43:48 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[12-Apr-2015 00:43:48 America/Denver] PHP Notice:  Undefined index: image in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 18
+[12-Apr-2015 00:45:09 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[12-Apr-2015 00:45:09 America/Denver] PHP Notice:  Undefined index: image in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 18
+[12-Apr-2015 00:46:48 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[12-Apr-2015 00:46:48 America/Denver] PHP Notice:  Undefined index: image in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 18
+[12-Apr-2015 00:49:32 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[12-Apr-2015 00:49:32 America/Denver] PHP Notice:  Undefined index: image in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 18
+[12-Apr-2015 00:54:48 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[12-Apr-2015 00:54:48 America/Denver] PHP Notice:  Undefined index: image in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 18
+[12-Apr-2015 00:58:33 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[12-Apr-2015 00:59:15 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[12-Apr-2015 01:00:04 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[12-Apr-2015 01:01:20 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[12-Apr-2015 01:01:38 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[12-Apr-2015 01:01:49 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[12-Apr-2015 01:02:06 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[12-Apr-2015 01:03:09 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[12-Apr-2015 01:03:52 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[12-Apr-2015 01:05:14 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[12-Apr-2015 01:06:15 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[12-Apr-2015 01:07:47 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[12-Apr-2015 01:07:47 America/Denver] PHP Notice:  Undefined index: image in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 22
+[12-Apr-2015 01:07:47 America/Denver] PHP Notice:  Undefined offset: 1 in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 25
+[12-Apr-2015 01:08:37 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[12-Apr-2015 01:08:37 America/Denver] PHP Notice:  Undefined index: image in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 22
+[12-Apr-2015 01:08:37 America/Denver] PHP Notice:  Undefined offset: 1 in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 25
+[12-Apr-2015 01:09:16 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[12-Apr-2015 01:09:16 America/Denver] PHP Notice:  Undefined index: image in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 22
+[12-Apr-2015 01:09:16 America/Denver] PHP Notice:  Undefined offset: 1 in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 25
+[12-Apr-2015 01:10:14 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[12-Apr-2015 01:14:31 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[12-Apr-2015 01:20:38 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[12-Apr-2015 01:22:36 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[12-Apr-2015 01:22:46 America/Denver] PHP Notice:  Undefined variable: checkUsername in /home1/tardissh/public_html/dight350/dewey/ImageGallery/index.php on line 47
+[12-Apr-2015 01:22:52 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[12-Apr-2015 01:30:07 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[12-Apr-2015 01:30:30 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[12-Apr-2015 11:19:43 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/ImageGallery/index.php on line 5
+[12-Apr-2015 11:24:05 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[12-Apr-2015 11:24:05 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 5
+[12-Apr-2015 11:24:05 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/ImageGallery/index.php on line 5
+[12-Apr-2015 14:34:42 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/ImageGallery/index.php on line 5
+[12-Apr-2015 21:24:12 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[12-Apr-2015 21:24:12 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 5
+[12-Apr-2015 21:24:13 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/ImageGallery/index.php on line 5
+[12-Apr-2015 22:01:21 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/ImageGallery/index.php on line 5
+[13-Apr-2015 09:30:07 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/ImageGallery/index.php on line 5
+[13-Apr-2015 09:30:14 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/ImageGallery/index.php on line 5
+[13-Apr-2015 09:30:14 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 09:30:32 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 09:36:30 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 09:36:47 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 09:37:02 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 10:06:32 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 10:06:43 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 10:07:07 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 10:10:06 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 10:10:37 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 10:10:41 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 10:10:50 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 10:38:50 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 10:40:17 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 16:58:00 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 16:58:00 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 5
+[13-Apr-2015 16:58:00 America/Denver] PHP Warning:  getimagesize(gallery_images27.jpeg): failed to open stream: No such file or directory in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 124
+[13-Apr-2015 16:58:00 America/Denver] PHP Warning:  Division by zero in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 131
+[13-Apr-2015 16:58:00 America/Denver] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 139
+[13-Apr-2015 16:58:00 America/Denver] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 143
+[13-Apr-2015 16:58:00 America/Denver] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 147
+[13-Apr-2015 16:58:00 America/Denver] PHP Notice:  Undefined variable: tb_id in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 181
+[13-Apr-2015 16:58:00 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 16:58:00 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 5
+[13-Apr-2015 16:58:00 America/Denver] PHP Notice:  Undefined variable: tb_id in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 181
+[13-Apr-2015 16:58:00 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/ImageGallery/index.php on line 5
+[13-Apr-2015 16:58:08 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/ImageGallery/index.php on line 5
+[13-Apr-2015 16:58:08 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 16:58:08 America/Denver] PHP Notice:  Undefined variable: tb_id in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 181
+[13-Apr-2015 16:58:23 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 16:58:23 America/Denver] PHP Warning:  getimagesize(gallery_images28.jpeg): failed to open stream: No such file or directory in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 124
+[13-Apr-2015 16:58:23 America/Denver] PHP Warning:  Division by zero in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 131
+[13-Apr-2015 16:58:23 America/Denver] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 139
+[13-Apr-2015 16:58:23 America/Denver] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 143
+[13-Apr-2015 16:58:23 America/Denver] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 147
+[13-Apr-2015 16:58:23 America/Denver] PHP Notice:  Undefined variable: tb_id in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 181
+[13-Apr-2015 16:58:23 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 16:58:23 America/Denver] PHP Notice:  Undefined variable: tb_id in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 181
+[13-Apr-2015 16:58:35 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 16:58:35 America/Denver] PHP Notice:  Undefined variable: tb_id in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 181
+[13-Apr-2015 17:00:32 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 17:00:32 America/Denver] PHP Notice:  Undefined variable: tb_id in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 181
+[13-Apr-2015 17:10:28 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 17:10:28 America/Denver] PHP Warning:  getimagesize(gallery_images29.jpeg): failed to open stream: No such file or directory in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 124
+[13-Apr-2015 17:10:28 America/Denver] PHP Warning:  Division by zero in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 131
+[13-Apr-2015 17:10:28 America/Denver] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 135
+[13-Apr-2015 17:10:28 America/Denver] PHP Warning:  imagecreatefromjpeg(): 'gallery_images/29.jpeg' is not a valid JPEG file in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 135
+[13-Apr-2015 17:10:28 America/Denver] PHP Notice:  Undefined variable: destination_handle in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 147
+[13-Apr-2015 17:10:28 America/Denver] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 147
+[13-Apr-2015 17:10:28 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 17:10:33 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 17:10:36 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 17:12:21 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 17:12:50 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 17:12:50 America/Denver] PHP Warning:  getimagesize(gallery_images31.jpeg): failed to open stream: No such file or directory in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 124
+[13-Apr-2015 17:12:50 America/Denver] PHP Warning:  Division by zero in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 131
+[13-Apr-2015 17:12:50 America/Denver] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 135
+[13-Apr-2015 17:12:50 America/Denver] PHP Warning:  imagecreatefromjpeg(): 'gallery_images/31.jpeg' is not a valid JPEG file in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 135
+[13-Apr-2015 17:12:50 America/Denver] PHP Notice:  Undefined variable: destination_handle in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 147
+[13-Apr-2015 17:12:50 America/Denver] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 147
+[13-Apr-2015 17:12:50 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 17:13:39 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 17:13:39 America/Denver] PHP Warning:  getimagesize(gallery_images32.jpeg): failed to open stream: No such file or directory in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 124
+[13-Apr-2015 17:13:39 America/Denver] PHP Warning:  Division by zero in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 131
+[13-Apr-2015 17:13:39 America/Denver] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 139
+[13-Apr-2015 17:13:39 America/Denver] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 143
+[13-Apr-2015 17:13:39 America/Denver] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 147
+[13-Apr-2015 17:13:40 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 17:18:10 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 17:18:10 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 17:18:24 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 21:51:09 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 21:51:09 America/Denver] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 135
+[13-Apr-2015 21:51:09 America/Denver] PHP Warning:  imagecreatefromjpeg(): 'gallery_images/36.jpeg' is not a valid JPEG file in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 135
+[13-Apr-2015 21:51:09 America/Denver] PHP Notice:  Undefined variable: destination_handle in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 147
+[13-Apr-2015 21:51:09 America/Denver] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 147
+[13-Apr-2015 21:51:09 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 21:52:06 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 21:52:12 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 21:52:52 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 21:52:52 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 21:53:26 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 21:53:27 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 21:53:56 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 21:53:56 America/Denver] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 135
+[13-Apr-2015 21:53:56 America/Denver] PHP Warning:  imagecreatefromjpeg(): 'gallery_images/39.jpeg' is not a valid JPEG file in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 135
+[13-Apr-2015 21:53:56 America/Denver] PHP Notice:  Undefined variable: destination_handle in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 147
+[13-Apr-2015 21:53:56 America/Denver] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 147
+[13-Apr-2015 21:53:57 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 21:59:21 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:00:53 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:00:53 America/Denver] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 135
+[13-Apr-2015 22:00:53 America/Denver] PHP Warning:  imagecreatefromjpeg(): 'gallery_images/40.jpeg' is not a valid JPEG file in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 135
+[13-Apr-2015 22:00:53 America/Denver] PHP Notice:  Undefined variable: destination_handle in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 147
+[13-Apr-2015 22:00:53 America/Denver] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 147
+[13-Apr-2015 22:00:55 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:01:05 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:01:41 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:01:41 America/Denver] PHP Warning:  imagecreatefrompng(): 'gallery_images/41.png' is not a valid PNG file in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 135
+[13-Apr-2015 22:01:41 America/Denver] PHP Notice:  Undefined variable: destination_handle in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 147
+[13-Apr-2015 22:01:41 America/Denver] PHP Warning:  imagepng() expects parameter 1 to be resource, null given in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 147
+[13-Apr-2015 22:01:42 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:05:43 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:05:43 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:06:10 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:06:15 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:06:31 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:06:31 America/Denver] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 136
+[13-Apr-2015 22:06:31 America/Denver] PHP Warning:  imagecreatefromjpeg(): 'gallery_images/45.jpeg' is not a valid JPEG file in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 136
+[13-Apr-2015 22:06:31 America/Denver] PHP Notice:  Undefined variable: destination_handle in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 148
+[13-Apr-2015 22:06:31 America/Denver] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 148
+[13-Apr-2015 22:06:31 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:08:21 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:09:12 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:09:21 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:09:27 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:11:09 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:11:11 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:11:16 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:11:27 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:11:27 America/Denver] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 136
+[13-Apr-2015 22:11:27 America/Denver] PHP Warning:  imagecreatefromjpeg(): 'gallery_images/46.jpeg' is not a valid JPEG file in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 136
+[13-Apr-2015 22:11:27 America/Denver] PHP Notice:  Undefined variable: destination_handle in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 147
+[13-Apr-2015 22:11:27 America/Denver] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 147
+[13-Apr-2015 22:11:28 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:12:01 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:12:01 America/Denver] PHP Warning:  imagecreatefrompng(): 'gallery_images/47.png' is not a valid PNG file in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 136
+[13-Apr-2015 22:12:01 America/Denver] PHP Notice:  Undefined variable: destination_handle in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 147
+[13-Apr-2015 22:12:01 America/Denver] PHP Warning:  imagepng() expects parameter 1 to be resource, null given in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 147
+[13-Apr-2015 22:12:01 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:26:36 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:26:55 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:26:56 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:27:06 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:27:06 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:27:21 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:27:22 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:28:06 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:28:07 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:28:24 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:28:24 America/Denver] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 136
+[13-Apr-2015 22:28:24 America/Denver] PHP Warning:  imagecreatefromjpeg(): 'gallery_images/55.jpeg' is not a valid JPEG file in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 136
+[13-Apr-2015 22:28:24 America/Denver] PHP Notice:  Undefined variable: destination_handle in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 147
+[13-Apr-2015 22:28:24 America/Denver] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 147
+[13-Apr-2015 22:28:24 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:40:06 America/Denver] PHP Parse error:  syntax error, unexpected 'gallery' (T_STRING), expecting ',' or ';' in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 184
+[13-Apr-2015 22:40:12 America/Denver] PHP Parse error:  syntax error, unexpected 'gallery' (T_STRING), expecting ',' or ';' in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 184
+[13-Apr-2015 22:41:06 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:42:53 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:43:01 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:45:21 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:45:30 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:49:07 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:53:26 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:53:30 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:53:30 America/Denver] PHP Warning:  unlink(gallery_images/tb_47.png): No such file or directory in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 207
+[13-Apr-2015 22:53:31 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:53:34 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:53:34 America/Denver] PHP Warning:  unlink(gallery_images/tb_46.jpeg): No such file or directory in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 207
+[13-Apr-2015 22:53:35 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:53:37 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:53:37 America/Denver] PHP Warning:  unlink(gallery_images/48.jpeg): No such file or directory in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 206
+[13-Apr-2015 22:53:37 America/Denver] PHP Warning:  unlink(gallery_images/tb_48.jpeg): No such file or directory in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 207
+[13-Apr-2015 22:53:37 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:53:41 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:53:41 America/Denver] PHP Warning:  unlink(gallery_images/tb_55.jpeg): No such file or directory in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 207
+[13-Apr-2015 22:53:41 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:58:04 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:58:12 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:58:42 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:58:42 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:58:45 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:58:46 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:59:00 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 22:59:40 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 23:06:12 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 23:06:15 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 23:07:32 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 23:08:35 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 23:09:23 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 23:09:48 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 23:09:48 America/Denver] PHP Warning:  unlink(gallery_images/56.jpeg): No such file or directory in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 209
+[13-Apr-2015 23:09:48 America/Denver] PHP Warning:  unlink(gallery_images/tb_56.jpeg): No such file or directory in /home1/tardissh/public_html/dight350/dewey/ImageGallery/class.gallery.php on line 210
+[13-Apr-2015 23:09:48 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 23:10:10 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 23:10:10 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 23:22:07 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 23:22:15 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 23:22:15 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 23:22:27 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 23:22:27 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 23:22:37 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 23:22:37 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[13-Apr-2015 23:22:54 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[14-Apr-2015 00:27:43 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[14-Apr-2015 00:27:43 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 26
+[14-Apr-2015 00:27:43 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[14-Apr-2015 00:27:56 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[14-Apr-2015 00:27:56 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[14-Apr-2015 05:11:35 America/Denver] PHP Notice:  Undefined index: id in /home1/tardissh/public_html/dight350/dewey/ImageGallery/fullimage.php on line 9
+[14-Apr-2015 05:11:36 America/Denver] PHP Notice:  Undefined index: extension in /home1/tardissh/public_html/dight350/dewey/ImageGallery/fullimage.php on line 10
+[14-Apr-2015 05:27:46 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 4
+[14-Apr-2015 05:27:46 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/ImageGallery/gallery.php on line 5
+[14-Apr-2015 05:27:46 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/ImageGallery/index.php on line 5
+[14-Apr-2015 05:30:12 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/ImageGallery/index.php on line 5
+[14-Apr-2015 18:14:18 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/ImageGallery/index.php on line 5
+[14-Apr-2015 21:32:56 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[14-Apr-2015 22:30:26 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[14-Apr-2015 22:39:35 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[14-Apr-2015 22:47:25 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[14-Apr-2015 22:48:05 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[14-Apr-2015 22:50:12 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[14-Apr-2015 22:50:21 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[14-Apr-2015 22:50:23 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[14-Apr-2015 22:51:42 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[14-Apr-2015 22:52:35 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[14-Apr-2015 22:52:58 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[14-Apr-2015 22:52:58 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[14-Apr-2015 22:56:04 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[14-Apr-2015 22:56:07 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[14-Apr-2015 22:56:16 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[14-Apr-2015 23:11:41 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[14-Apr-2015 23:13:12 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[14-Apr-2015 23:13:12 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 26
+[14-Apr-2015 23:13:12 America/Denver] PHP Notice:  Undefined variable: imageID in /home1/tardissh/public_html/dight350/dewey/gallery/class.gallery.php on line 151
+[14-Apr-2015 23:13:13 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[14-Apr-2015 23:16:53 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[14-Apr-2015 23:16:56 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[14-Apr-2015 23:17:05 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[14-Apr-2015 23:19:19 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[14-Apr-2015 23:19:45 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[14-Apr-2015 23:19:45 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 26
+[14-Apr-2015 23:19:45 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[14-Apr-2015 23:23:01 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[14-Apr-2015 23:23:36 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[14-Apr-2015 23:23:36 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 26
+[14-Apr-2015 23:23:36 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[14-Apr-2015 23:24:43 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[14-Apr-2015 23:56:18 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[14-Apr-2015 23:57:20 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[14-Apr-2015 23:57:33 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[14-Apr-2015 23:57:57 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[14-Apr-2015 23:58:19 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[14-Apr-2015 23:58:19 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[14-Apr-2015 23:58:34 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[14-Apr-2015 23:58:34 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 26
+[14-Apr-2015 23:58:34 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[14-Apr-2015 23:58:43 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[14-Apr-2015 23:58:43 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[14-Apr-2015 23:58:47 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[14-Apr-2015 23:58:51 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[14-Apr-2015 23:59:46 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[14-Apr-2015 23:59:50 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 00:00:53 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 00:03:48 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 00:06:51 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 00:08:20 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 00:08:25 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 00:08:28 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 00:08:28 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 00:09:34 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 00:09:37 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 00:09:37 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 00:10:13 America/Denver] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home1/tardissh/public_html/dight350/dewey/gallery/class.gallery.php on line 176
+[15-Apr-2015 00:11:03 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 00:11:07 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 00:11:27 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 00:11:27 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 26
+[15-Apr-2015 00:11:32 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 00:11:32 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 26
+[15-Apr-2015 00:11:33 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 00:11:42 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 00:14:23 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 00:14:26 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 00:14:29 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 00:14:31 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 00:14:31 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 00:14:31 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 12:43:31 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[15-Apr-2015 14:05:51 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 14:05:56 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 14:05:59 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 14:06:03 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 14:06:03 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 14:07:07 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 14:07:12 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 20:40:34 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 20:40:34 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 5
+[15-Apr-2015 20:40:34 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[15-Apr-2015 20:40:41 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[15-Apr-2015 20:40:41 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 20:40:44 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 20:40:53 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 20:40:56 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 20:40:58 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 20:45:06 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 20:45:10 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 20:45:10 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 20:45:35 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 20:45:38 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 20:45:41 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 20:46:06 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 20:46:09 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 20:46:31 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 20:46:33 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 20:46:33 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 20:53:08 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 20:53:08 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 26
+[15-Apr-2015 20:53:08 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 20:53:25 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 20:53:25 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 26
+[15-Apr-2015 20:53:26 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 20:53:45 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 20:53:46 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 21:00:27 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 21:00:27 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 26
+[15-Apr-2015 21:00:27 America/Denver] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home1/tardissh/public_html/dight350/dewey/gallery/class.gallery.php on line 133
+[15-Apr-2015 21:00:27 America/Denver] PHP Warning:  imagecreatefromjpeg(): 'gallery_images/7.jpeg' is not a valid JPEG file in /home1/tardissh/public_html/dight350/dewey/gallery/class.gallery.php on line 133
+[15-Apr-2015 21:00:27 America/Denver] PHP Notice:  Undefined variable: destination_handle in /home1/tardissh/public_html/dight350/dewey/gallery/class.gallery.php on line 145
+[15-Apr-2015 21:00:27 America/Denver] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home1/tardissh/public_html/dight350/dewey/gallery/class.gallery.php on line 145
+[15-Apr-2015 21:00:27 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 21:00:30 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 21:00:30 America/Denver] PHP Warning:  unlink(gallery_images/tb_7.jpeg): No such file or directory in /home1/tardissh/public_html/dight350/dewey/gallery/class.gallery.php on line 238
+[15-Apr-2015 21:00:30 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 21:00:54 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 21:12:44 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 21:13:00 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 21:15:46 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 21:29:20 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 21:30:39 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 21:31:12 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 21:33:12 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 21:33:18 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 21:37:42 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 21:38:16 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 21:41:46 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 21:43:41 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 21:43:49 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 21:49:26 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 21:49:45 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 21:49:46 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 21:49:52 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 21:50:21 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 21:50:21 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 26
+[15-Apr-2015 21:50:22 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 21:51:44 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 21:51:44 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 26
+[15-Apr-2015 21:51:44 America/Denver] PHP Notice:  Undefined index:  in /home1/tardissh/public_html/dight350/dewey/gallery/class.gallery.php on line 95
+[15-Apr-2015 21:51:44 America/Denver] PHP Warning:  copy(): Filename cannot be empty in /home1/tardissh/public_html/dight350/dewey/gallery/class.gallery.php on line 110
+[15-Apr-2015 21:51:44 America/Denver] PHP Warning:  getimagesize(gallery_images/0.): failed to open stream: No such file or directory in /home1/tardissh/public_html/dight350/dewey/gallery/class.gallery.php on line 120
+[15-Apr-2015 21:51:44 America/Denver] PHP Warning:  Division by zero in /home1/tardissh/public_html/dight350/dewey/gallery/class.gallery.php on line 128
+[15-Apr-2015 21:51:44 America/Denver] PHP Fatal error:  Call to undefined function ImageCreateFrom() in /home1/tardissh/public_html/dight350/dewey/gallery/class.gallery.php on line 133
+[15-Apr-2015 21:52:59 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 21:52:59 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 26
+[15-Apr-2015 21:53:02 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 21:54:13 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 21:54:13 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 26
+[15-Apr-2015 21:54:13 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 21:55:00 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 21:55:00 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 26
+[15-Apr-2015 21:55:02 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 21:56:33 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 21:58:34 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 22:04:45 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 22:14:12 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 22:16:16 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 22:16:21 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 22:16:21 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 22:16:24 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 22:16:24 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 22:16:27 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 22:16:27 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 22:16:29 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 22:16:29 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 22:16:32 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 22:16:33 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 22:17:15 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 22:17:15 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 26
+[15-Apr-2015 22:17:15 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 22:25:46 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 22:25:46 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 26
+[15-Apr-2015 22:25:48 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 22:28:49 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 22:28:49 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 26
+[15-Apr-2015 22:28:53 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 22:33:19 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 22:33:27 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 22:37:57 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 22:43:29 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 22:44:03 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 22:59:06 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 23:00:04 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 23:00:04 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 26
+[15-Apr-2015 23:00:07 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 23:02:44 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 23:03:09 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 23:06:18 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 23:06:58 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 23:07:31 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 23:08:20 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 23:09:20 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 23:09:20 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 26
+[15-Apr-2015 23:09:20 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 23:09:31 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 23:11:47 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 23:12:19 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 23:12:19 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 23:13:13 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 23:13:13 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 26
+[15-Apr-2015 23:13:14 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 23:14:14 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 23:14:14 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 26
+[15-Apr-2015 23:14:15 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 23:15:20 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 23:15:20 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 26
+[15-Apr-2015 23:15:21 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 23:15:35 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 23:15:35 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 23:16:46 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 23:16:46 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 26
+[15-Apr-2015 23:16:47 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 23:18:36 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 23:18:36 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 26
+[15-Apr-2015 23:18:37 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 23:20:28 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 23:21:48 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 23:22:22 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 23:27:44 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 23:28:42 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 23:29:54 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 23:37:08 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 23:44:35 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 23:45:10 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 23:46:22 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 23:46:32 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 23:47:24 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 23:50:58 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 23:52:57 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 23:53:32 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 23:54:10 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 23:55:57 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 23:57:27 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[15-Apr-2015 23:58:03 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:00:06 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:00:13 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:00:20 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:00:20 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 5
+[16-Apr-2015 00:00:21 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[16-Apr-2015 00:01:10 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:03:33 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:03:33 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 26
+[16-Apr-2015 00:03:34 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:03:53 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:03:53 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 5
+[16-Apr-2015 00:03:53 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[16-Apr-2015 00:04:07 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[16-Apr-2015 00:04:07 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:04:15 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:04:25 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:04:32 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:04:42 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:04:42 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 5
+[16-Apr-2015 00:04:42 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[16-Apr-2015 00:04:46 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[16-Apr-2015 00:04:47 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:04:58 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:05:04 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:06:48 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:07:54 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:07:54 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 5
+[16-Apr-2015 00:07:55 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[16-Apr-2015 00:08:01 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[16-Apr-2015 00:08:02 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:09:45 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:09:45 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:09:56 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:09:56 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:09:58 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:09:58 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:10:33 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:10:33 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 26
+[16-Apr-2015 00:10:33 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:14:20 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:14:20 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 26
+[16-Apr-2015 00:14:20 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:14:31 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:15:07 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:15:07 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 26
+[16-Apr-2015 00:15:09 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:15:15 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:15:15 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 26
+[16-Apr-2015 00:15:18 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:15:46 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:15:46 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:16:09 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:17:06 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:17:13 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:17:13 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 26
+[16-Apr-2015 00:17:14 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:17:19 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:18:00 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:18:12 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:18:20 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:18:30 America/Denver] PHP Notice:  Undefined index: id in /home1/tardissh/public_html/dight350/dewey/gallery/fullimage.php on line 9
+[16-Apr-2015 00:18:30 America/Denver] PHP Notice:  Undefined index: extension in /home1/tardissh/public_html/dight350/dewey/gallery/fullimage.php on line 10
+[16-Apr-2015 00:24:46 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:24:56 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:25:11 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:25:49 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:26:03 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:26:26 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:26:53 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:45:14 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 00:52:12 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[16-Apr-2015 08:57:54 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[16-Apr-2015 08:57:59 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[16-Apr-2015 08:57:59 America/Denver] PHP Notice:  Undefined variable: checkUsername in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 47
+[16-Apr-2015 08:58:01 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[16-Apr-2015 18:11:56 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 18:11:56 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 5
+[16-Apr-2015 18:11:56 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[16-Apr-2015 22:31:52 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[16-Apr-2015 22:31:52 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 5
+[16-Apr-2015 22:31:52 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[17-Apr-2015 00:36:41 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[17-Apr-2015 00:37:27 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[17-Apr-2015 00:37:28 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[17-Apr-2015 00:38:57 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[17-Apr-2015 00:38:57 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[17-Apr-2015 00:39:13 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[17-Apr-2015 00:39:13 America/Denver] PHP Notice:  Undefined variable: checkUsername in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 47
+[17-Apr-2015 00:39:37 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[17-Apr-2015 00:39:37 America/Denver] PHP Notice:  Undefined variable: checkUsername in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 47
+[17-Apr-2015 00:40:00 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[17-Apr-2015 00:40:00 America/Denver] PHP Notice:  Undefined variable: checkUsername in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 47
+[17-Apr-2015 01:11:30 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[17-Apr-2015 01:16:47 America/Denver] PHP Notice:  Undefined index: id in /home1/tardissh/public_html/dight350/dewey/gallery/fullimage.php on line 9
+[17-Apr-2015 01:16:47 America/Denver] PHP Notice:  Undefined index: extension in /home1/tardissh/public_html/dight350/dewey/gallery/fullimage.php on line 10
+[17-Apr-2015 13:07:46 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[17-Apr-2015 13:07:46 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 5
+[17-Apr-2015 13:07:46 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[17-Apr-2015 13:07:50 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[17-Apr-2015 13:33:49 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[17-Apr-2015 18:21:52 America/Denver] PHP Notice:  Undefined index: id in /home1/tardissh/public_html/dight350/dewey/gallery/fullimage.php on line 9
+[17-Apr-2015 18:21:52 America/Denver] PHP Notice:  Undefined index: extension in /home1/tardissh/public_html/dight350/dewey/gallery/fullimage.php on line 10
+[17-Apr-2015 21:54:53 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[18-Apr-2015 10:51:39 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[18-Apr-2015 11:14:40 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[18-Apr-2015 11:14:40 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 5
+[18-Apr-2015 11:14:40 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[18-Apr-2015 11:17:42 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[18-Apr-2015 11:17:53 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[18-Apr-2015 11:17:53 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[18-Apr-2015 11:18:08 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[18-Apr-2015 11:18:09 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[18-Apr-2015 11:18:15 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[18-Apr-2015 11:18:15 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[18-Apr-2015 11:18:37 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[18-Apr-2015 16:23:20 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[18-Apr-2015 21:42:33 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[19-Apr-2015 04:18:41 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[19-Apr-2015 04:18:41 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 5
+[19-Apr-2015 04:19:05 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[19-Apr-2015 04:56:36 America/Denver] PHP Notice:  Undefined index: id in /home1/tardissh/public_html/dight350/dewey/gallery/fullimage.php on line 9
+[19-Apr-2015 04:56:36 America/Denver] PHP Notice:  Undefined index: extension in /home1/tardissh/public_html/dight350/dewey/gallery/fullimage.php on line 10
+[19-Apr-2015 14:14:47 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[19-Apr-2015 14:14:47 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 5
+[19-Apr-2015 14:14:47 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[28-Apr-2015 22:25:56 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[29-Apr-2015 20:59:38 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[29-Apr-2015 20:59:41 America/Denver] PHP Notice:  Undefined index: login in /home1/tardissh/public_html/dight350/dewey/gallery/index.php on line 5
+[29-Apr-2015 20:59:41 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[29-Apr-2015 21:00:24 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[29-Apr-2015 21:00:24 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[29-Apr-2015 21:00:36 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[29-Apr-2015 21:00:36 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[29-Apr-2015 21:02:15 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[29-Apr-2015 21:02:15 America/Denver] PHP Notice:  Undefined index: ID in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 26
+[29-Apr-2015 21:02:16 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[29-Apr-2015 21:02:31 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[29-Apr-2015 21:02:57 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
+[29-Apr-2015 21:05:54 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/tardissh/public_html/dight350/dewey/gallery/gallery.php on line 4
